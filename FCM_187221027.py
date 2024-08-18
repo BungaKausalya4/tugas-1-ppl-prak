@@ -72,3 +72,5 @@ plt.show()
 #Melihat nilai silhouette score
 score2 = silhouette_score(nmpy, labels)
 print("Silhouette Score: ", score2)
+
+
